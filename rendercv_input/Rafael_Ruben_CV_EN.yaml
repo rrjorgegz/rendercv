@@ -1,0 +1,304 @@
+cv:
+  name: Rafael Rubén Jorge González
+  headline: Computer Science Engineer | Senior ERP Developer — Odoo & Frappe/ERPNext | 5+ Years of Experience
+  location: Villa Clara, Cuba
+  email: rrjorgegz@gmail.com
+  photo: ./fotoCV.png
+  phone: '+5358727914'
+  website: https://rrjorgegz.github.io/
+  social_networks:
+    - network: LinkedIn
+      username: rafael-ruben-jg
+    - network: GitHub
+      username: rrjorgegz
+  sections:
+    Professional Profile:
+      - Computer Science Engineer with 5+ years of experience in the full development
+        cycle of ERP solutions. Specialized in **Odoo** (versions 12–18) and
+        **Frappe/ERPNext**, with expertise in module design, version migrations,
+        API integration (REST, XML-RPC, JSON-RPC), and deployment automation with
+        **Docker and CI/CD**. Led and implemented functional solutions for companies
+        across 5 countries (Cuba, Spain, Peru, Mexico, Dominican Republic) covering
+        payroll, accounting, point of sale, electronic invoicing, and sales management.
+    Key Achievements:
+      - bullet: "Implemented 15+ custom modules in Odoo and Frappe/ERPNext for clients in 5 countries, covering payroll, POS, accounting, and electronic invoicing."
+      - bullet: Designed from scratch the SII invoice submission module (Spain) with digital signature, achieving 100% regulatory compliance.
+      - bullet: Automated CI/CD pipelines with Docker, reducing deployment times and minimizing production errors.
+      - bullet: Executed Odoo migrations across versions (v12→v17) with zero data loss and no operational downtime.
+    Experience:
+      - company: Reserva Inc
+        position: Senior ERP Developer
+        start_date: 2025-09
+        end_date: 2026-03
+        location: Spain
+        highlights:
+          - Designed and implemented custom modules in **Odoo 12** based on client functional specifications, meeting 100% of agreed delivery deadlines.
+          - Collaborated with cross-functional teams to integrate new features into existing operational workflows, improving internal process traceability.
+          - Optimized workflows through manual process automation, reducing repetitive tasks for the administrative team.
+      - company: idooGROUP Technologies Inc.
+        position: Backend Odoo Developer
+        start_date: 2024-12
+        end_date: 2025-08
+        location: Mexico
+        highlights:
+          - Developed backend integrations between **Odoo and Flutter mobile applications** via REST APIs, improving data synchronization across systems.
+          - Implemented and maintained **CI/CD pipelines with Docker**, reducing deployment times and production errors.
+          - Automated continuous integration processes for multi-service environments, standardizing the team's development workflow.
+      - company: Jael Solution (freelancer)
+        position: Odoo Developer
+        start_date: 2024-09
+        end_date: 2024-11
+        location: Dominican Republic
+        highlights:
+          - Executed full migration of Odoo modules from **v16 to v17** for the accounting department, ensuring compatibility with Dominican fiscal regulations.
+          - Performed regression testing and post-migration functional validation, ensuring operational continuity with zero data loss.
+      - company: Soft System (freelancer)
+        position: Odoo Developer
+        start_date: 2024-06
+        end_date: 2024-07
+        location: Peru
+        highlights:
+          - Developed features for the **Point of Sale (POS)** module in Odoo, improving user experience and transaction processing speed.
+          - Adapted existing modules to local business processes and generated custom reports (QWeb) for management decision-making.
+      - company: Iguana IT
+        position: Frappe/ERPNext Developer
+        start_date: 2023-08
+        end_date: 2024-05
+        location: Spain
+        highlights:
+          - "Designed and implemented from scratch the **SII** (Immediate Information System) invoice submission module in Frappe/ERPNext, complying with Spanish tax regulations."
+          - Developed modules for **sales management and automatic tax calculation**, optimizing the company's invoicing workflow.
+          - Implemented **digital signature generation** functionality for fiscal documents, ensuring authenticity and legal validity before the AEAT.
+      - company: Peoplewalking
+        position: Odoo Developer
+        start_date: 2023-01
+        end_date: 2023-06
+        location: Spain
+        highlights:
+          - Researched, designed, and implemented an Odoo module for **EAN-128 barcode management**, delivered within 100% of the planned timeline.
+          - Maintained and optimized contact management and report generation modules according to evolving client requirements.
+      - company: Desoft VC
+        position: Odoo Developer
+        start_date: 2020-11
+        end_date: 2022-12
+        location: Villa Clara, Cuba
+        highlights:
+          - Designed and implemented an Odoo module for **on-call hours management** and its automatic integration into the Human Resources payroll calculation.
+          - Implemented modules for **food cost management**, achieving 100% compliance with implementation plans.
+          - Customized the **recruitment module** adapting it to the specific workflows and needs of each client.
+    Education:
+      - institution: University of Computer Sciences (UCI)
+        area: Computer Science
+        degree: Engineer
+        start_date: 2015-08
+        end_date: 2020-10
+        location: Havana, Cuba
+    Technical Skills:
+      - label: ERP
+        details: Odoo (v12–v18), Frappe/ERPNext
+      - label: Languages
+        details: Python, JavaScript, XML
+      - label: Frameworks & Libs
+        details: OWL (Odoo Web Library), QWeb, Jinja2
+      - label: APIs
+        details: REST, XML-RPC, JSON-RPC
+      - label: Databases
+        details: PostgreSQL
+      - label: DevOps
+        details: Git, Docker, CI/CD, Linux, Nginx
+      - label: Methodologies
+        details: Scrum, Kanban, requirements analysis, code review, technical documentation, mentoring
+      - label: Functional Areas
+        details: "Payroll, Accounting, POS, Electronic Invoicing, Sales Management, Fiscal Localization (l10n)"
+    Languages:
+      - label: Spanish
+        details: Native
+      - label: English
+        details: "B2 (upper-intermediate) — technical meetings and advanced documentation"
+    Certifications:
+      - name: Advanced Odoo for Developers
+        start_date: 2022-08
+        end_date: 2022-11
+        location: Desoft VC
+        # details: "Internal certification from Desoft VC validating advanced knowledge in Odoo module development, API integration, and best development practices. Includes practical and theoretical evaluation with a focus on real implementation cases."
+
+design:
+  theme: engineeringresumes
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 0, 0)
+  #   headline: rgb(0, 0, 0)
+  #   connections: rgb(0, 0, 0)
+  #   section_titles: rgb(0, 0, 0)
+  #   links: rgb(0, 0, 0)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: New Computer Modern
+  #     name: New Computer Modern
+  #     headline: New Computer Modern
+  #     connections: New Computer Modern
+  #     section_titles: New Computer Modern
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: true
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: false
+  #     display_urls_instead_of_usernames: true
+  #     separator: •
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_full_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in: []
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: false
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: ◦
+  #     nested_bullet: ◦
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**
+  #       *DEGREE* *in* *AREA*
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column:
+  #     date_and_location_column: |-
+  #       *LOCATION*
+  #       *DATE*
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       *LOCATION*
+  #       *DATE*
+  #   experience_entry:
+  #     main_column: |-
+  #       **POSITION**
+  #       *COMPANY*
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       *LOCATION*
+  #       *DATE*
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: '2025-12-22'
+  render_command:
+    design:
+    locale:
+    typst_path: ./../rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: ./../rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: ./../rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: ./../rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: ./../rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []

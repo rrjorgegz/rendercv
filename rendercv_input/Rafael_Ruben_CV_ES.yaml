@@ -115,7 +115,7 @@ cv:
       - label: Español
         details: Nativo
       - label: Inglés
-        details: "B2 (intermedio-alto) — conversación técnica y documentación avanzada"
+        details: "B1"
     Certificaciones:
       - name: Advanced Odoo for Developers
         date:
